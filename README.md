@@ -49,6 +49,7 @@ This project aims to enhance the movie-watching experience by helping users disc
 
 ### 📸 Sample Output *(Optional)*
 
+![Streamlit - Google Chrome 6_14_2025 1_32_59 PM](https://github.com/user-attachments/assets/1182387e-7d41-47c5-bbc3-248226610ee6)
 
 
 ---
